@@ -38,6 +38,7 @@
 		55CEBFA02261076800520277 = {
 			isa = PBXGroup;
 			children = (
+				55CEBFAE2261076800520277 /* ViewController.swift */,
 				55CEBFAB2261076800520277 /* Music Booster */,
 				55CEBFAA2261076800520277 /* Products */,
 			);
@@ -55,7 +56,6 @@
 			isa = PBXGroup;
 			children = (
 				55CEBFAC2261076800520277 /* AppDelegate.swift */,
-				55CEBFAE2261076800520277 /* ViewController.swift */,
 				55CEBFB02261076800520277 /* Main.storyboard */,
 				55CEBFB32261076A00520277 /* Assets.xcassets */,
 				55CEBFB52261076A00520277 /* LaunchScreen.storyboard */,
